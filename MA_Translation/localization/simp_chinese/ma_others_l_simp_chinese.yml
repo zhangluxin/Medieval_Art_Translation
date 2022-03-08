@@ -115,3 +115,9 @@
  eastern_palace_decision_desc:0 "随着岁月的流逝，我并没有闲着。 我和我的王朝的地位比以往任何时候都高得多，现在是时候在我的首都建造一座比我现在的宫殿更大、更辉煌的新宫殿，向世界展示这种威望"
  eastern_palace_decision_confirm:0 "让世人称羡"
  eastern_palace_decision_effect:0 "你会得到 #bold 东宫#!"
+ 
+ innovation_macedonian_art:0 "马其顿文艺复兴"
+ innovation_macedonian_art_desc:0 "在马其顿王朝时期，拜占庭帝国经历了前所未有的艺术和建筑发展，重新发掘了古老的经典，标准化了教堂的平面图，并为壁画和雕塑开发了新的、更自然的风格"
+
+ innovation_komnenian_art:0 "科穆宁艺术"
+ innovation_komnenian_art_desc:0 "随着希腊人民的权力和财富的稳定，一种新的风格已经发展起来，既鼓舞了他们的西方邻国，也鼓舞了东方邻国，其特点是华丽的马赛克和绘画、宏伟的教堂和光彩照人的古代科学文献和宗教手稿"

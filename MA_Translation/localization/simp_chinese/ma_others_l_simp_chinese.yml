@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
- theocracy_government_levy_contribution_mult:1 "[theocracy|E] [vassal|E] [levy|E] [modifier_contribution|E]"
- #Decisions
  embellish_city_decision:0 "美化一座城市"
  embellish_city_decision_tooltip:0 "您将收到一个事件来选择您的投资方向"
  embellish_city_decision_desc:0 "#F 我的金库里有多余的金子，我可以用它来为我拥有的省份进行重建和点缀，把它变成一座伟大的城市，用它的大理石在历史上铸就我的名字!#!"
@@ -108,7 +106,7 @@
  buddhism_mani_stones_decision:0 "加持摩尼石"
  mani_stones_decision_tooltip:0 "您将会加持摩尼石"
  mani_stones_decision_desc:0 "[GetPlayer.GetCulture.GetNameNoTooltip] 人们一直非常重视自然和栖息在其中的精神。 为了表达他们对这个美丽的世界及其最强大的造物——环绕我们的高大喜马拉雅山脉的崇敬，他们一直建造摩尼石，即刻有动物、神灵和其他自然力量象征的岩石金字塔，以祈求保护和幸运， 并更好地与山的精神联系起来"
- buddhism_mani_stones_decision_desc:0 "[GetPlayer.GetCulture.GetNameNoTooltip] 人们一直非常重视自然和栖息在其中的精神。 为了表达他们对这个美丽的世界及其最强大的造物——环绕我们的高大喜马拉雅山脉的崇敬，他们一直建造摩尼石，即刻有动物、神灵和其他自然力量象征的岩石金字塔，以祈求保护和幸运， 并更好地与山的精神联系起来。 尽管现在佛陀的话语统治着这些土地，但我们发现拥抱和融入这一传统更好，在它们上面画经文而不是异教偶像"
+ buddhism_mani_stones_decision_desc:0 "s[GetPlayer.GetCulture.GetNameNoTooltip] 人们一直非常重视自然和栖息在其中的精神。 为了表达他们对这个美丽的世界及其最强大的造物——环绕我们的高大喜马拉雅山脉的崇敬，他们一直建造摩尼石，即刻有动物、神灵和其他自然力量象征的岩石金字塔，以祈求保护和幸运， 并更好地与山的精神联系起来。 尽管现在佛陀的话语统治着这些土地，但我们发现拥抱和融入这一传统更好，在它们上面画经文而不是异教偶像"
  mani_stones_decision_confirm:0 "群山中的寺庙"
  mani_stones_decision_effect:0 "您将获得一个事件来决定如何加持他们"
 

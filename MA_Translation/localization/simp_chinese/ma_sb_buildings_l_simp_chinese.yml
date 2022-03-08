@@ -1,0 +1,76 @@
+﻿l_simp_chinese:
+
+  building_type_ct_a_castle_constantinople_01:1 "$building_ct_a_castle_constantinople_01$"
+  building_type_ct_a_castle_constantinople_01_desc:0 "#F  #!"
+  building_ct_a_castle_constantinople_01:0 "大皇宫"
+  building_ct_a_castle_constantinople_01_desc:0 "$building_type_ct_a_castle_constantinople_01_desc$"
+  
+  building_type_ct_a_castle_kaliopolis_01:1 "$building_ct_a_castle_kaliopolis_01$"
+  building_type_ct_a_castle_kaliopolis_01_desc:0 "#F  #!"
+  building_ct_a_castle_kaliopolis_01:0 "钦佩城堡"
+  building_ct_a_castle_kaliopolis_01_desc:0 "$building_type_ct_a_castle_kaliopolis_01_desc$"
+  
+  building_type_ct_a_aqueduct_kavala_01:1 "$building_ct_a_aqueduct_kavala_01$"
+  building_type_ct_a_aqueduct_kavala_01_desc:0 "#F  #!"
+  building_ct_a_aqueduct_kavala_01:0 "卡马雷斯渠"
+  building_ct_a_aqueduct_kavala_01_desc:0 "$building_type_ct_a_aqueduct_kavala_01_desc$"
+  
+  building_type_ct_a_cathedral_thessaloniki_01:1 "$building_ct_a_cathedral_thessaloniki_01$"
+  building_type_ct_a_cathedral_thessaloniki_01_desc:0 "#F  #!"
+  building_ct_a_cathedral_thessaloniki_01:0 "圣迪米特里奥斯教堂"
+  building_ct_a_cathedral_thessaloniki_01_desc:0 "$building_type_ct_a_cathedral_thessaloniki_01_desc$"
+
+  building_type_ct_a_site_ostia_01:1 "$building_ct_a_site_ostia_01$"
+  building_type_ct_a_site_ostia_01_desc:0 "#F 由罗马皇帝奥古斯都建造，经过后来的改进，它可以容纳多达 4000 名观众。 在古代晚期，它被修改为用作防御工事.  #!"
+  building_ct_a_site_ostia_01:0 "奥斯蒂亚罗马剧院"
+  building_ct_a_site_ostia_01_desc:0 "$building_type_ct_a_site_ostia_01_desc$"
+  
+  building_type_ct_a_cathedral_vaticano_01:1 "$building_ct_a_cathedral_vaticano_01$"
+  building_type_ct_a_cathedral_vaticano_01_desc:0 "#F 基督教世界的中心是为最伟大的圣徒建造的最伟大的教堂。 圣彼得大教堂是在君士坦丁统治下建造的，是许多重要事件的举办地，例如查理曼大帝的加冕典礼。 它有一个典型的早期基督教艺术的大教堂形式和三个能够容纳数千名信徒的中殿。 根据基督教的简朴，它缺乏外部装饰，但内部却充满了所罗门圣殿的石雕和墓葬和马赛克。#!"
+  building_ct_a_cathedral_vaticano_01:0 "圣彼得大教堂"
+  building_ct_a_cathedral_vaticano_01_desc:0 "$building_type_ct_a_cathedral_vaticano_01_desc$"
+  
+  building_type_ct_a_castle_viterbo_01:1 "$building_ct_a_castle_viterbo_01$"
+  building_type_ct_a_castle_viterbo_01_desc:0 "#F 哥特式民用建筑的宏伟典范，也是意大利最大的中世纪宫殿之一。 它的许多柱子都是罗马神庙的柱子，它的大立面是这座城市的象征。 这是一座宏伟的宫殿，也是一座伟大的堡垒。#!"
+  building_ct_a_castle_viterbo_01:0 "帕皮宫"
+  building_ct_a_castle_viterbo_01_desc:0 "$building_type_ct_a_castle_viterbo_01_desc$"
+
+  building_type_ct_a_site_sutri_01:1 "$building_ct_a_site_sutri_01$"
+  building_type_ct_a_site_sutri_01_desc:0 "#F 只有这个古老圆形剧场的废墟，类似于斗兽场，在苏特里幸存下来，大部分装饰都剥落了。  #!"
+  building_ct_a_site_sutri_01:0 "苏特里罗马圆形剧场"
+  building_ct_a_site_sutri_01_desc:0 "$building_type_ct_a_site_sutri_01_desc$"
+
+  building_type_ct_a_walls_civitavecchia_01:1 "$building_ct_a_walls_civitavecchia_01$"
+  building_type_ct_a_walls_civitavecchia_01_desc:0 "#F 中世纪时，奇维塔韦基亚市以坚固的围墙加固  #!"
+  building_ct_a_walls_civitavecchia_01:0 "奇维塔韦基亚城墙"
+  building_ct_a_walls_civitavecchia_01_desc:0 "$building_type_ct_a_walls_civitavecchia_01_desc$"
+
+  building_type_ct_a_site_tivoli_01:1 "$building_ct_a_site_tivoli_01$"
+  building_type_ct_a_site_tivoli_01_desc:0 "#F 曾经是公元 120 年为罗马皇帝哈德良建造的令人印象深刻的皇宫，它装饰着水池、浴池、雕像和喷泉。 它现在处于废墟之中，是用于新建筑的大理石和宝石的非常宝贵的来源。  #!"
+  building_ct_a_site_tivoli_01:0 "哈德良宫遗址"
+  building_ct_a_site_tivoli_01_desc:0 "$building_type_ct_a_site_tivoli_01_desc$"
+
+  building_type_ct_a_walls_velletri_01:1 "$building_ct_a_walls_velletri_01$"
+  building_type_ct_a_walls_velletri_01_desc:0 "#F 在远古时代，Velletri 的沃尔西小镇被巨大的城墙所包围。 然而，在罗马人最终征服这座城市后，作为惩罚，它们在公元前 338 年被夷为平地。 直到中世纪，城墙才被重建，当时韦莱特里被强大的城墙包围 #!"
+  building_ct_a_walls_velletri_01:0 "韦莱特里城墙"
+  building_ct_a_walls_velletri_01_desc:0 "$building_type_ct_a_walls_velletri_01_desc$"
+
+  building_type_ct_a_cathedral_terracina_01:1 "$building_ct_a_cathedral_terracina_01$"
+  building_type_ct_a_cathedral_terracina_01_desc:0 "#F 泰拉西纳大教堂是罗马式和拜占庭式建筑的典范，其正面有凉廊、马赛克和美丽的拉文纳特式钟楼。#!"
+  building_ct_a_cathedral_terracina_01:0 "特拉西纳大教堂"
+  building_ct_a_cathedral_terracina_01_desc:0 "$building_type_ct_a_cathedral_terracina_01_desc$"
+  
+  building_type_ct_a_capua_arena_01:1 "$building_ct_a_capua_arena_01$"
+  building_type_ct_a_capua_arena_01_desc:0 "#F 城外矗立着一座圆形剧场，建于奥古斯都时代，由哈德良修复并由安东尼·皮乌斯奉献，正如正门上的铭文所记录的那样。 外部是现存最大的建筑之一，由 80 个多立克式拱廊组成，每个拱廊有 4 层，但许多已被摧毁。#!"
+  building_ct_a_capua_arena_01:0 "卡普阿剧院"
+  building_ct_a_capua_arena_01_desc:0 "$building_type_ct_a_capua_arena_01_desc$"
+
+  building_type_ct_a_abbey_cassino_01:1 "$building_ct_a_abbey_cassino_01$"
+  building_type_ct_a_abbey_cassino_01_desc:0 "#F 蒙特卡西诺修道院是中世纪欧洲最大和最繁荣的修道院之一，是本笃会的第一座房屋，由努尔西亚的本尼迪克特本人于 529 年左右在一座岩石坚不可摧的山顶上建立。 这是一座极其强大和有影响力的修道院，与罗马教皇、那不勒斯和萨勒诺的统治者以及东方教会有着密切的联系。#!"
+  building_ct_a_abbey_cassino_01:0 "蒙特卡西诺修道院"
+  building_ct_a_abbey_cassino_01_desc:0 "$building_type_ct_a_abbey_cassino_01_desc$"
+  
+  building_type_ct_a_mosque_iznik_01:1 "$building_ct_a_mosque_iznik_01$"
+  building_type_ct_a_mosque_iznik_01_desc:0 "#F  #!"
+  building_ct_a_mosque_iznik_01:0 "哈吉奥兹别克清真寺"
+  building_ct_a_mosque_iznik_01_desc:0 "$building_type_ct_a_mosque_iznik_01_desc$"

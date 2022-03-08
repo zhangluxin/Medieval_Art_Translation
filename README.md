@@ -1,2 +1,2 @@
 # Medieval_Art_Translation
-Medieval Art自用汉化
+十字军之王3 mod “Medieval Art” 自用汉化

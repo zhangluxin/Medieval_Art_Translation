@@ -1,22 +1,22 @@
 ﻿l_simp_chinese:
 
   building_type_ct_a_castle_constantinople_01:1 "$building_ct_a_castle_constantinople_01$"
-  building_type_ct_a_castle_constantinople_01_desc:0 "#F  #!"
+  building_type_ct_a_castle_constantinople_01_desc:0 "#F 大皇宫是公元330年至1081年间拜占庭皇帝的主要居所，作为帝国的行政中心超过八百年。皇宫里面除了居住着皇族外，还有成群的宫娥、太监、禁军、教士和宫廷官员，其人口多达两万，几乎相当于一座城市。 #!"
   building_ct_a_castle_constantinople_01:0 "大皇宫"
   building_ct_a_castle_constantinople_01_desc:0 "$building_type_ct_a_castle_constantinople_01_desc$"
   
   building_type_ct_a_castle_kaliopolis_01:1 "$building_ct_a_castle_kaliopolis_01$"
-  building_type_ct_a_castle_kaliopolis_01_desc:0 "#F  #!"
+  building_type_ct_a_castle_kaliopolis_01_desc:0 "#F 这座城堡传统上被认为是在1356年对苏莱曼帕夏和他选择的39名卫兵的月光袭击中陷落的。然而，现代学术认为，它是由拜占庭皇帝约翰·坎塔库泽诺斯在1352年左右授予奥斯曼土耳其人的 #!"
   building_ct_a_castle_kaliopolis_01:0 "钦佩城堡"
   building_ct_a_castle_kaliopolis_01_desc:0 "$building_type_ct_a_castle_kaliopolis_01_desc$"
   
   building_type_ct_a_aqueduct_kavala_01:1 "$building_ct_a_aqueduct_kavala_01$"
-  building_type_ct_a_aqueduct_kavala_01_desc:0 "#F  #!"
+  building_type_ct_a_aqueduct_kavala_01_desc:0 "#F 卡马雷斯渠，也称为贝基尔帕夏渠，是塞浦路斯拉纳卡附近的渡槽。它位于城外，靠近通往利马索尔的旧路，始建于1747年。塔索斯·米克罗普洛斯 (Tassos Mikropoulos) 将其描述为塞浦路斯建造的最著名的供水系统。 #!"
   building_ct_a_aqueduct_kavala_01:0 "卡马雷斯渠"
   building_ct_a_aqueduct_kavala_01_desc:0 "$building_type_ct_a_aqueduct_kavala_01_desc$"
   
   building_type_ct_a_cathedral_thessaloniki_01:1 "$building_ct_a_cathedral_thessaloniki_01$"
-  building_type_ct_a_cathedral_thessaloniki_01_desc:0 "#F  #!"
+  building_type_ct_a_cathedral_thessaloniki_01_desc:0 "#F 希腊塞萨洛尼基市的一个古建筑。该建筑是为了纪念希腊圣徒圣迪米特里奥斯，可追溯到拜占庭帝国时代。1988年，它作为塞萨洛尼基早期基督教与拜占庭式古建筑的一部分，被列入世界遗产。 #!"
   building_ct_a_cathedral_thessaloniki_01:0 "圣迪米特里奥斯教堂"
   building_ct_a_cathedral_thessaloniki_01_desc:0 "$building_type_ct_a_cathedral_thessaloniki_01_desc$"
 
@@ -71,6 +71,11 @@
   building_ct_a_abbey_cassino_01_desc:0 "$building_type_ct_a_abbey_cassino_01_desc$"
   
   building_type_ct_a_mosque_iznik_01:1 "$building_ct_a_mosque_iznik_01$"
-  building_type_ct_a_mosque_iznik_01_desc:0 "#F  #!"
+  building_type_ct_a_mosque_iznik_01_desc:0 "#F 哈吉奥兹别克清真寺是奥斯曼帝国艺术的第一个重要中心，是奥斯曼帝国单圆顶清真寺的典范，它展示了拜占庭建筑技术和穆斯林需求的结合。 #!"
   building_ct_a_mosque_iznik_01:0 "哈吉奥兹别克清真寺"
   building_ct_a_mosque_iznik_01_desc:0 "$building_type_ct_a_mosque_iznik_01_desc$"
+  
+  building_type_ct_a_cathedral_pammakaristos_01:1 "$building_ct_a_cathedral_pammakaristos_01$"
+  building_type_ct_a_cathedral_pammakaristos_01_desc:0 "#F 君士坦丁堡最重要的巴列奥略建筑之一，也是君士坦丁堡普世牧首驻扎的最后一个前奥斯曼帝国建筑。它还拥有伊斯坦布尔最大数量的拜占庭马赛克，仅次于圣索菲亚大教堂和科拉教堂。 #!"
+  building_ct_a_cathedral_pammakaristos_01:0 "帕玛卡里斯托斯教堂"
+  building_ct_a_cathedral_pammakaristos_01_desc:0 "$building_type_ct_a_cathedral_pammakaristos_01_desc$"

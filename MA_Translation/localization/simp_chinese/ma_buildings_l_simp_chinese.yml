@@ -1,4 +1,6 @@
 ﻿l_simp_chinese:
+
+  #Macedonian Monastery
   building_type_ma_macedonian_monastery_01:0 "马其顿修道院"
   building_type_ma_macedonian_monastery_01_desc:1 "这座修道院是精神冥想和学习的中心，拥有大片土地，是一个伟大的宗教中心"
   building_ma_macedonian_monastery_01:1 "修道院"
@@ -17,3 +19,23 @@
   building_ma_macedonian_monastery_07_desc:1 "一间带窗户的小房间，用作修道院的图书馆。 它保存了在写字间和修道院礼仪书中复制的精美手稿，该文件概述了该建筑群的规则和礼仪仪式"
   building_ma_macedonian_monastery_08:1 "钟楼"
   building_ma_macedonian_monastery_08_desc:1 "作为西方建筑的进步，一座钟楼已经在大教堂外面建造了。 它的形状很薄，由两个拱形窗户和景泰蓝砖石装饰，用砖框环绕石头"
+  
+  #Komnenian Church
+  building_type_ma_komnenian_church_01:0 "科穆宁教堂"
+  building_type_ma_komnenian_church_01_desc:1 "这是一座供奉上帝的石制教堂，这件奇妙的艺术品是一个强大的宗教社区的中心"
+  building_ma_komnenian_church_01:1 "希腊十字设计"
+  building_ma_komnenian_church_01_desc:1 "作为最常用的教堂方案，希腊十字已成为罗马土地上宗教建筑的象征，其中殿与方形中心等长"
+  building_ma_komnenian_church_02:1 "八角穹顶"
+  building_ma_komnenian_church_02_desc:1 "从教堂中央升起的八角形穹顶。 它由一系列取自波斯式的设计，它允许更多表面被马赛克覆盖"
+  building_ma_komnenian_church_03:1 "洗礼堂"
+  building_ma_komnenian_church_03_desc:1 "一个八角形的洗礼堂就建在教堂的外面，装饰着马赛克和雕像以及教堂赞助人的坟墓"
+  building_ma_komnenian_church_04:1 "马赛克装饰"
+  building_ma_komnenian_church_04_desc:1 "覆盖东墙的宏伟大型马赛克描绘了统治者的宫廷和他对教堂建设的赞助。 它是由希腊工匠在威尼斯工匠的帮助下组装成的，一个又一个的金色镶嵌"
+  building_ma_komnenian_church_05:1 "内殿"
+  building_ma_komnenian_church_05_desc:1 "教堂的主要空间，位于八角形圆顶下方的中央。 它装饰着华丽的马赛克和图标，而人行道上则覆盖着彩色瓷砖"
+  building_ma_komnenian_church_06:1 "中央祭坛"
+  building_ma_komnenian_church_06_desc:1 "它是雕塑的杰作，祭坛的各个方面，分为三个房间，上面覆盖着五颜六色的大理石。 粉红色、红色和金色的色调在温暖的烛光下反射，为教堂营造出温馨的氛围。 它是在托斯卡纳和威尼斯工匠的帮助下创建的"
+  building_ma_komnenian_church_07:1 "洗礼堂"
+  building_ma_komnenian_church_07_desc:1 "一个八角形的洗礼堂就建在教堂的外面，装饰着马赛克和雕像，里面还有教堂守护者家族的坟墓"
+  building_ma_komnenian_church_08:1 "飞扶壁"
+  building_ma_komnenian_church_08_desc:1 "一组坚固的扶壁，使建筑物更加稳定。 它们由一群来自法国的工匠用石头建造而成，很好地融入了教堂的整体外观"

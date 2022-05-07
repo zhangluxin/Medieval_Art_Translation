@@ -79,3 +79,8 @@
   building_type_ct_a_cathedral_pammakaristos_01_desc:0 "#F 君士坦丁堡最重要的巴列奥略建筑之一，也是君士坦丁堡普世牧首驻扎的最后一个前奥斯曼帝国建筑。它还拥有伊斯坦布尔最大数量的拜占庭马赛克，仅次于圣索菲亚大教堂和科拉教堂。 #!"
   building_ct_a_cathedral_pammakaristos_01:0 "帕玛卡里斯托斯教堂"
   building_ct_a_cathedral_pammakaristos_01_desc:0 "$building_type_ct_a_cathedral_pammakaristos_01_desc$"
+
+  building_type_ct_a_abbey_chios_01:1 "$building_ct_a_abbey_chios_01$"
+  building_type_ct_a_abbey_chios_01_desc:0 "#F 一座 11 世纪的修道院，位于希俄斯岛上。 它以其马赛克而闻名，是希腊“马其顿文艺复兴”艺术的最佳典范之一。  #!"
+  building_ct_a_abbey_chios_01:0 "尼亚摩尼修道院"
+  building_ct_a_abbey_chios_01_desc:0 "$building_type_ct_a_abbey_chios_01_desc$"
